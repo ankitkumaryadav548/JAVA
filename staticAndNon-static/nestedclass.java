@@ -1,5 +1,5 @@
-import java.util.* ;
-//Non-static nested class 
+// import java.util.* ;
+// //Non-static nested class 
 // class outer{
 //     int a =20;
 //     static int b =40 ;
@@ -15,7 +15,7 @@ import java.util.* ;
 // class Main{
 //     public static void main(String[] args){
 //         outer o = new outer() ;
-        // outer.Inner obj = o.new Inner() ;
+//         outer.Inner obj = o.new Inner() ;
 //         obj.print();
 //     }
 // }
