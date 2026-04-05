@@ -16,6 +16,9 @@ class Main{
         {
             System.out.println("ArithmeticExceptionOccur");
         }
+        finally{
+            System.out.println("Continue executing programme without crash");
+        }
     }
 }
 

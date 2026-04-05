@@ -1,4 +1,4 @@
-// type of Exception habdling
+// type of Exception handling
 //1.try block 
 //2.catch
 //3.finally

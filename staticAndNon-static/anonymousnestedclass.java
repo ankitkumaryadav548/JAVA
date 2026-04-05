@@ -1,4 +1,4 @@
-//anonymous nested class
+//anonymous nested class => file is not created while executing the anonymous code
 //we don't have class name
 //at time of class declaration we create object
 //this only for one time use
