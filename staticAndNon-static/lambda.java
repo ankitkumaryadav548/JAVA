@@ -45,10 +45,8 @@
 import java.util.* ;
 
 interface lambda {
-    void multiply(int a, int b);
-    
+    void multiply(int a, int b);   
 }
-
 class Main{
     public static void main(String[] atgs){
         lambda l1 =(int a ,int b)->
@@ -56,3 +54,9 @@ class Main{
         l1.multiply(4,5);
     }
 }
+
+
+
+
+
+

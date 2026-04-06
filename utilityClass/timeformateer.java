@@ -13,7 +13,5 @@ class Main{
         
         DateTimeFormatter f3 = DateTimeFormatter.ofPattern("ss:mm:HH");
         System.out.println("current time is HH:mm:ss " + time.format(f3));
-
-
     }
 }
