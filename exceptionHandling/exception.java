@@ -1,5 +1,6 @@
-// Exception => abnormal behavior of programming ducring ececution
+// Exception => abnormal behavior of programming during execution
 // compile time and Runtime
+
 
 //1.unchecked Exception => Runtime Exception
 //Arithimetic Exception

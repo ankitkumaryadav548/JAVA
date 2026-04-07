@@ -19,9 +19,7 @@ class Main{
             }
             }catch(passwordCheckException p){
                 System.out.println(p.getMessage());
-            }
-
-        
+            }   
 
     }
 }

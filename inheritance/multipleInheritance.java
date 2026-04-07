@@ -43,7 +43,7 @@ class Manager extends Employee{
 }
 class Main{
     public static void main(String[] args) {
-        Manager m1 = new Manager(10000, 05, 6000, "Diya", 19);
+        Manager m1 = new Manager(10000, 05, 6000, "Ankit", 20);
         
         System.out.println("bonus is: "+m1.bonus);
         System.out.println("employeeId is: "+m1.employeeId);

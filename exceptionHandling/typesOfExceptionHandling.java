@@ -5,6 +5,7 @@
 //4.throw
 //5.throws
 
+
 //try => in which we are gettng Exception write inside try block 
 // try{
 
@@ -34,6 +35,7 @@
 
 
 //assertion 
+
 
 
 import java.util.* ;

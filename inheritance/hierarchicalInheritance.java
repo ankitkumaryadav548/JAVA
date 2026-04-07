@@ -1,6 +1,6 @@
 
 // hierarchical inheritance ->
-// onr parent class->
+// one parent class->
 // two child at same level
 // A parent class
 // B,C as a chils class

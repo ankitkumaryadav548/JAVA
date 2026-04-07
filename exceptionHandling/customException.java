@@ -43,11 +43,13 @@
 
 import java.util.*;
 
+
 class MarksCanNotBeNegativeException extends Exception{
     MarksCanNotBeNegativeException(String message){
         super(message);
     }
 }
+
 class Main{
     public static void main(String[] args){
         int marks = -5;
@@ -61,4 +63,5 @@ class Main{
         }
     }
 }
+
 
