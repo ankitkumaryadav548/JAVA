@@ -11,7 +11,7 @@
 
 import java.util.*;
 
-import javax.security.auth.login.FailedLoginException;
+// import javax.security.auth.login.FailedLoginException;
 
 class IllegalMarksException extends Exception{
     IllegalMarksException(String message){
@@ -26,7 +26,7 @@ class FailedException extends Exception{
 
 class Main{
     public static void main(String[] args)
-    throws IllegalMarksException , FailedLoginException
+    throws IllegalMarksException , FailedException
     {
         Scanner sc = new Scanner(System.in);
         int marks = sc.nextInt();
