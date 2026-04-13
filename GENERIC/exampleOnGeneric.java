@@ -7,6 +7,7 @@
 //Number => predefine class for Every Number
 //this super class for all Numbers
 
+
 import java.util.*;
 class Calculator<T extends Number>
 {
@@ -15,7 +16,6 @@ class Calculator<T extends Number>
     Calculator(T a , T b){
         this.a =a;
         this.b =b;
-
     }
     double add(){
         return a.doubleValue()+b.doubleValue() ; 
@@ -40,3 +40,4 @@ class exampleOnGeneric {
         System.out.println("Sum: " + cal.add());
     }
 }
+
