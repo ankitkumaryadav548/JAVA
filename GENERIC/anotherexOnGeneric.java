@@ -1,3 +1,4 @@
+//Another example og Generic class 
 // A company is building an online shopping system where different types of products are handled, such as:
 
 // Product ID → Integer
