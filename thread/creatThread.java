@@ -1,4 +1,4 @@
-//thread can be creted using two way
+//thread can be created using two way
 //1.By Extending Thread Class
 //2.By Implementing Runnable Interface
 
