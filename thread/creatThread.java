@@ -15,23 +15,26 @@ class Main{
         Mythread m1 =  new Mythread();
         m1.run();
     }
+    System.out.println("next thread is excuting" );
 
 }
 
 //2.Method to create Thread
 
-import java.util.*;
+// import java.util.*;
 
-class MyRunnable implements Runnable{
-    public void run(){
-        System.out.println("Thread is running");
-    }
-}
+// class MyRunnable implements Runnable{
+//     public void run(){
+//         System.out.println("Thread is running");
+//     }
+// }
 
-class Main{
-    public static void main(String[] args){
-        Thread t1 = new Thread(new MyRunnable());
-        t1.start();
-    }
-}
+// class Main{
+//     public static void main(String[] args){
+//         Thread t1 = new Thread(new MyRunnable());
+//         t1.start();
+//     }
+// }
+
+
 
