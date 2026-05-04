@@ -116,9 +116,6 @@ class Main{
         list.addAll(list1);
         System.out.println(list);
 
-
-
-
         
     }
 }
