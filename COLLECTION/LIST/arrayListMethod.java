@@ -54,12 +54,5 @@ class Main {
         Collections.reverse(list);
         System.out.println("reverse arrayList: " + list);
 
-
-
-
-
-
-
-
     }
 }
