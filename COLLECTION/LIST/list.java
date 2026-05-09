@@ -55,7 +55,7 @@ class Main{
         System.out.println("element at index 3 is  "+ list.get(3));
         //update the value of list->set(index , value)
         //again print update list
-        //this method return previous value and ipdate the new value
+        //this method return previous value and update the new value
         list.set(2,44);
         System.out.println("list after updating : "+ list);
         //remove the element from the list using value
