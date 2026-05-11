@@ -1,3 +1,4 @@
+//HashMap is a class in Java Collection Framework used to store data in Key Value pair
 import java.util.*;
 
 class Main {
