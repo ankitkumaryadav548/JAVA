@@ -27,15 +27,13 @@ class Main{
         d.addLast(60);
         d.offerLast(90);
         System.out.println(d);
-        
+
         //to remove element
         d.removeFirst();
         d.pollFirst();
         d.removeLast();
         d.pollLast();
         System.out.println("deque after deletion of element :" + d);
-
-
 
     }
 }
