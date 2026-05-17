@@ -84,8 +84,8 @@ class Main {
             System.out.println("table after Deletion ");
             while (rs2.next()) { // initial rs before first row
                 System.out.println("id is " + rs2.getInt("id") + " name " + rs2.getString("name"));
-
             }
+            conn.close() ;
 
         } catch (Exception e) {
             System.out.println(e);

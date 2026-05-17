@@ -6,7 +6,7 @@
 // throw Exception -> FailedException
 
 // take a marks from user
-//and use try and catch amd throw and throws and custom Exception and finally
+//and use try and catch and  throw and throws and custom Exception and finally
 //in finally you have to print marks check successfully
 
 import java.util.*;

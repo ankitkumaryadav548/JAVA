@@ -17,7 +17,7 @@ class.forName("com.mysql.jdbc.Driver");
 //create the variable of Connection 
 Connection conn = DriverManager.getConnection(url,user,password);
 
-//1 way to crate connection with Database
+//1 way to create connection with Database
 //  String url = "" ;
 // String user = "" ;
 // String pass = "";

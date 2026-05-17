@@ -8,7 +8,7 @@
 
 // }
 
-//uncheked Custom Exception => exception created by Developer or logic of program that will runtime  custom Exception
+// uncheked Custom Exception => exception created by Developer or logic of program that will runtime  custom Exception
 // class DivideByzero extends RuntimeException{
 
 // }
