@@ -3,7 +3,7 @@ class BankAccount {
 
     void withdraw(int amount) {
         if (balance >= amount) {
-            balance = balance - amount; // NOT thread-safe
+            balance = balance - amount; 
         }
     }
 }
