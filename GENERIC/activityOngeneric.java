@@ -27,7 +27,7 @@ class StudentData<T> {
     }
 }
 
-// Main class to test
+
 class activityOngeneric {
     public static void main(String[] args) {
         
